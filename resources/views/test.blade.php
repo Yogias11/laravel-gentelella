@@ -53,7 +53,7 @@
         <!-- /page content -->
 
         <!-- footer content -->
-        @include('master.footergit')
+        @include('master.footer')
         <!-- /footer content -->
       </div>
     </div>
